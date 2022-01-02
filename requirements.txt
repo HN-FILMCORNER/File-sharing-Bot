@@ -1,0 +1,10 @@
+# --- For-Bot-Working --------- #
+pyrogram~=1.2.20
+TgCrypto
+Pyromod
+# --- For-Database ------------ #
+motor
+aiofiles
+dnspython
+pymongo
+
